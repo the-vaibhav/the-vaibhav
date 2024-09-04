@@ -1,5 +1,5 @@
 <div align="center">
-<img width="300px" alt="dog-funny" src="https://raw.githubusercontent.com/the-vaibhav/the-vaibhav/main/images/dog-funny.gif">
+<img width="300px" alt="dog-funny" src="https://raw.githubusercontent.com/the-vaibhav/the-vaibhav/main/images/butthead.gif">
 </div>
 
 <h1 align="center">Vaibhav Mhaske</h1>
